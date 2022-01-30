@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(49, 44, 44);
+    color: rgb(190, 190, 190);
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    padding-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+}

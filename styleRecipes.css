@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(49, 44, 44);
+    color: rgb(190, 190, 190);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+
+}
+
+img {
+    padding-right: 30px;
+    float: left;
+    height: auto;
+    width: 640px;
+}
+
+h3 {
+    color: rgb(177, 143, 115);
+}
+
+p, li {
+    font-style: italic;
+    font-size: 15px;
+}
+
+
+footer p {
+    font-style: italic;
+    font-size: 10px;
+}
+
+.back {
+    font-size: 20px;
+}
+
+ol {
+    padding-left: 30px;
+}
